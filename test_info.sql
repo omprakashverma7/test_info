@@ -79,5 +79,6 @@ select * from salary;
 -----------------------------------------------------------------------------------------------------
 
 create table tab1 (
-    name varchar(20)
+    name varchar(20),
+    age integer
     );  
