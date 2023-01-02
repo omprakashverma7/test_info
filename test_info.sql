@@ -82,6 +82,6 @@ create table tab1 (
     name varchar(20),
     age integer,
     gender varchar(10),
-    
+    email varchar(15)
     
     );  
