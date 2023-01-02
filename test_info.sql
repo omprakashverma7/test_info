@@ -76,3 +76,6 @@ execute add_sal;
 
 select * from salary;
 --truncate table salary;
+-----------------------------------------------------------------------------------------------------
+
+create table tab1;
