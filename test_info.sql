@@ -82,4 +82,5 @@ create table tab1 (
     name varchar(20),
     age integer,
     gender varchar
+    
     );  
