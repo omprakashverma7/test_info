@@ -78,4 +78,6 @@ select * from salary;
 --truncate table salary;
 -----------------------------------------------------------------------------------------------------
 
-create table tab1;
+create table tab1 (
+    name varchar(20)
+    );  
