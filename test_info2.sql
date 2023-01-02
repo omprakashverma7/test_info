@@ -43,3 +43,7 @@ select*from employee;
 select*from employee_clone;
 truncate table employee_clone;
 execute exchange_data;
+
+select * from employee;
+
+
